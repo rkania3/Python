@@ -7,4 +7,4 @@ Weather.py
 Practice using urllib and JSON files. Program takes zipcode as a parameter and returns the city name and current weather.
 
 MeanMedianMode.py
-Finds the mean median and mode of user inputed numbers
+Finds the mean median and mode of user inputed numbers.
