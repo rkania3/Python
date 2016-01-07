@@ -1,2 +1,4 @@
 Folder of Python practice programs. Includes:
 
+RockPaperScissors.py
+This is a simple Rock, Paper, Scissors game where the consol prompts you for a number which corresponds to an option. You play vs the computer and the computer keeps track of the score.
