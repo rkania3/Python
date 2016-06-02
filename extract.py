@@ -1,3 +1,4 @@
+#excel scrapping script
 import openpyxl
 
 
@@ -5,11 +6,12 @@ import openpyxl
 def main():
 	print('Creating new files....')
 
-	getData("Accelerometer")
-	getData("Gyroscope")
+	getData("Accel")
+	getData("Gyro")
 
 	#does not include sensors called pressure sensors
 	getData("Barometer")
+	getData("Pressure")
 
 	print('Done')
 
