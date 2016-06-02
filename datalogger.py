@@ -1,3 +1,4 @@
+#Rahul Kanianchalil
 #Each folder contains either a .zip file or a .csv/.3gp file
 #This script checks what the folder contains and makes the
 #naming sequence simplified to make further data analysis easier
