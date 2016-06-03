@@ -1,10 +1,1 @@
-Folder of Python practice programs. Includes:
-
-RockPaperScissors.py
-This is a simple Rock, Paper, Scissors game where the consol prompts you for a number which corresponds to an option. You play vs the computer and the computer keeps track of the score.
-
-Weather.py
-Practice using urllib and JSON files. Program takes zipcode as a parameter and returns the city name and current weather.
-
-MeanMedianMode.py
-Finds the mean median and mode of user inputed numbers.
+python script to read an excel file and sort data
