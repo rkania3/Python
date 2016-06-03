@@ -1,1 +1,8 @@
-python script to read an excel file and sort data
+Python Scripts
+RockPaperScissor.py --> Simple game played in terminal
+MeanMedianMode.py --> Calculates mean/median/mode
+Weather.py --> Finds the weather when given zip code
+dataLogger.py --> Iterates though files in a folder and organizes/unzips files
+extract.py --> Reads .xlsx file and writes new files based on data type
+webscrapper.py --> uses a webcrawler to get data from a linkedIn public profile
+
